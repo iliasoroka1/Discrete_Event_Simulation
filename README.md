@@ -2,8 +2,6 @@
 
 # MMn, MDn, and SJF Simulations
 
-This documentation outlines the simulation of MMn, MDn, and SJF queuing models using SimPy.
-
 ## MMn Queuing System
 - **Arrival Process**: Poisson
 - **Service Time**: Exponential
